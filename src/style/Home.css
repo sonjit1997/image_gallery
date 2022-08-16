@@ -1,0 +1,45 @@
+#pillNav{
+    max-width:40%;
+    margin-top: 3%;
+    margin-left: 30%;
+ 
+}
+input{
+    text-align: center;
+   
+}
+::-webkit-input-placeholder{
+    color: rgb(96, 113, 13);
+    opacity: 70%;
+    font-weight: 600;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.fixed-top {
+    background-color: white;
+    height: 12rem;
+    
+   
+  }
+.main{
+    text-align: center;
+}
+
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2%;
+    font-weight: 900;
+}
+.card{
+    box-shadow: 7px 7px 7px rgb(114, 111, 111);
+   
+}
+
+.container{
+    margin-top: 12rem;
+    margin-bottom: 5rem;
+}
